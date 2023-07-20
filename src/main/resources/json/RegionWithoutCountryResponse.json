@@ -1,0 +1,17 @@
+{
+  "warnings": [
+
+  ],
+  "data": [
+    {
+      "code": "01",
+      "name": "North American Region",
+      "version": 17
+    },
+    {
+      "code": "03",
+      "name": "Europe Region",
+      "version": 3
+    }
+  ]
+}

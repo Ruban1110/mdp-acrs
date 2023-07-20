@@ -1,0 +1,365 @@
+{
+  "meta": {
+    "count": 10,
+    "page": {
+      "limit": 10,
+      "offset": 0
+    }
+  },
+  "data": [
+    {
+      "id": "X4Z4",
+      "type": "Promotion",
+      "isActive": true,
+      "promoGroupCode": "Deals",
+      "code": "SUMM",
+      "qualifiers": {
+        "bookingPeriod": {
+          "start": "2022-12-06T00:00:00",
+          "end": "2022-12-11T23:59:00"
+        },
+        "stayPeriod": {
+          "start": "2022-12-11",
+          "end": "2023-01-05"
+        }
+      },
+      "overrides": {
+        "name": "Summer Sale"
+      },
+      "segmentation": {
+        "brands": [
+          "EC",
+          "LU",
+          "ME",
+          "PE"
+        ],
+        "regions": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05"
+        ]
+      }
+    },
+    {
+      "id": "X4ZB",
+      "type": "Promotion",
+      "isActive": true,
+      "promoGroupCode": "Deals",
+      "code": "NEWYEAR",
+      "qualifiers": {
+        "bookingPeriod": {
+          "start": "2022-12-07T00:00:00",
+          "end": "2022-12-31T23:59:00"
+        },
+        "stayPeriod": {
+          "start": "2022-12-07",
+          "end": "2022-12-31"
+        }
+      },
+      "overrides": {
+        "name": "new year"
+      },
+      "ratePlans": [
+        {
+          "code": "ABCRATE"
+        },
+        {
+          "code": "BFLEXIBLETTTTTTTTTTT"
+        },
+        {
+          "code": "BGOVR"
+        },
+        {
+          "code": "MILITARY"
+        }
+      ],
+      "segmentation": {
+        "brands": [
+          "PE"
+        ],
+        "regions": [
+          "01"
+        ]
+      }
+    },
+    {
+      "id": "X4ZC",
+      "type": "Promotion",
+      "isActive": true,
+      "promoGroupCode": "Deals",
+      "code": "XMAS",
+      "qualifiers": {
+        "bookingPeriod": {
+          "start": "2022-12-06T00:00:00",
+          "end": "2022-12-31T23:59:00"
+        },
+        "stayPeriod": {
+          "start": "2022-12-06",
+          "end": "2022-12-31"
+        }
+      },
+      "overrides": {
+        "name": "Christmas"
+      },
+      "ratePlans": [
+        {
+          "code": "BGOVR"
+        }
+      ],
+      "segmentation": {
+        "brands": [
+          "LU"
+        ],
+        "regions": [
+          "03"
+        ]
+      }
+    },
+    {
+      "id": "X4ZD",
+      "type": "Promotion",
+      "isActive": true,
+      "promoGroupCode": "Deals",
+      "code": "SPRING",
+      "qualifiers": {
+        "bookingPeriod": {
+          "start": "2023-03-05T00:00:00",
+          "end": "2023-05-31T23:59:00"
+        },
+        "stayPeriod": {
+          "start": "2022-12-07",
+          "end": "2023-05-31"
+        }
+      },
+      "segmentation": {
+        "brands": [
+          "EC"
+        ],
+        "regions": [
+          "04"
+        ]
+      }
+    },
+    {
+      "id": "X4ZE",
+      "type": "Promotion",
+      "isActive": true,
+      "promoGroupCode": "Deals",
+      "code": "FALL",
+      "qualifiers": {
+        "bookingPeriod": {
+          "start": "2022-12-07T00:00:00",
+          "end": "2023-10-31T23:59:00"
+        },
+        "stayPeriod": {
+          "start": "2023-10-01",
+          "end": "2023-10-31"
+        }
+      },
+      "segmentation": {
+        "brands": [
+          "EC"
+        ],
+        "regions": [
+          "04",
+          "05"
+        ]
+      }
+    },
+    {
+      "id": "X4ZF",
+      "type": "Promotion",
+      "isActive": true,
+      "promoGroupCode": "Deals",
+      "code": "VIP",
+      "qualifiers": {
+        "bookingPeriod": {
+          "start": "2022-12-07T00:00:00",
+          "end": "2022-12-31T23:59:00"
+        },
+        "stayPeriod": {
+          "start": "2022-12-07",
+          "end": "2022-12-31"
+        }
+      },
+      "segmentation": {
+        "brands": [
+          "EC"
+        ],
+        "regions": [
+          "05"
+        ]
+      }
+    },
+    {
+      "id": "12354",
+      "type": "Promotion",
+      "isActive": true,
+      "promoGroupCode": "Deals",
+      "code": "NEWYEAR",
+      "qualifiers": {
+        "bookingPeriod": {
+          "start": "2022-12-07T00:00:00",
+          "end": "2022-12-31T23:59:00"
+        },
+        "stayPeriod": {
+          "start": "2022-12-07",
+          "end": "2022-12-31"
+        }
+      },
+      "overrides": {
+        "name": "new year"
+      },
+      "ratePlans": [
+        {
+          "code": "ABCRATE"
+        },
+        {
+          "code": "FLAXIJ"
+        },
+        {
+          "code": "BGOVR"
+        },
+        {
+          "code": "MILITARY"
+        }
+      ],
+      "segmentation": {
+        "brands": [
+          "PE"
+        ],
+        "regions": [
+          "01"
+        ]
+      }
+    },
+    {
+      "id": "2222",
+      "type": "Promotion",
+      "isActive": true,
+      "promoGroupCode": "Deals",
+      "code": "NEWYEAR",
+      "qualifiers": {
+        "bookingPeriod": {
+          "start": "2022-12-07T00:00:00",
+          "end": "2022-12-31T23:59:00"
+        },
+        "stayPeriod": {
+          "start": "2022-12-07",
+          "end": "2022-12-31"
+        }
+      },
+      "overrides": {
+        "name": "new year"
+      },
+      "ratePlans": [
+        {
+          "code": "ABCRATE"
+        },
+        {
+          "code": "FLAXIJ"
+        },
+        {
+          "code": "BGOVR"
+        },
+        {
+          "code": "MILITARY"
+        }
+      ],
+      "segmentation": {
+        "brands": [
+          "PE"
+        ],
+        "regions": [
+          "01"
+        ]
+      }
+    },
+    {
+      "id": "3333",
+      "type": "Promotion",
+      "isActive": true,
+      "promoGroupCode": "Deals",
+      "code": "NEWYEAR",
+      "qualifiers": {
+        "bookingPeriod": {
+          "start": "2022-12-07T00:00:00",
+          "end": "2022-12-31T23:59:00"
+        },
+        "stayPeriod": {
+          "start": "2022-12-07",
+          "end": "2022-12-31"
+        }
+      },
+      "overrides": {
+        "name": "new year"
+      },
+      "ratePlans": [
+        {
+          "code": "ABCRATE"
+        },
+        {
+          "code": "FLAXIJ"
+        },
+        {
+          "code": "BGOVR"
+        },
+        {
+          "code": "MILITARY"
+        }
+      ],
+      "segmentation": {
+        "brands": [
+          "PE"
+        ],
+        "regions": [
+          "01"
+        ]
+      }
+    },
+    {
+      "id": "4444",
+      "type": "Promotion",
+      "isActive": true,
+      "promoGroupCode": "Deals",
+      "code": "NEWYEAR",
+      "qualifiers": {
+        "bookingPeriod": {
+          "start": "2022-12-07T00:00:00",
+          "end": "2022-12-31T23:59:00"
+        },
+        "stayPeriod": {
+          "start": "2022-12-07",
+          "end": "2022-12-31"
+        }
+      },
+      "overrides": {
+        "name": "new year"
+      },
+      "ratePlans": [
+        {
+          "code": "ABCRATE"
+        },
+        {
+          "code": "FLAXIJ"
+        },
+        {
+          "code": "BGOVR"
+        },
+        {
+          "code": "MILITARY"
+        }
+      ],
+      "segmentation": {
+        "brands": [
+          "PE"
+        ],
+        "regions": [
+          "01"
+        ]
+      }
+    }
+  ]
+}

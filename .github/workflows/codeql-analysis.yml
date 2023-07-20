@@ -1,0 +1,91 @@
+# For most projects, this workflow file will not need changing; you simply need
+# to commit it to your repository.
+#
+# You may wish to alter this file to override the set of languages analyzed,
+# or to provide custom queries or build logic.
+#
+# ******** NOTE ********
+# We have attempted to detect the languages in your repository. Please check
+# the `language` matrix defined below to confirm you have the correct set of
+# supported CodeQL languages.
+# ******** NOTE ********
+
+name: "CodeQL"
+
+on: [ push,  pull_request ]
+
+jobs:
+  analyze:
+    name: Analyze
+    container: 
+      image: artifactory.marriott.com/security/ghas-build-machine:latest
+      volumes: 
+      - /tmp/.ssh:/root/.ssh
+    runs-on: [ self-hosted, advancedsecurity ]
+
+    strategy:
+      fail-fast: false
+      matrix:
+        language: [ 'java' ]
+        # CodeQL supports [ 'cpp', 'csharp', 'go', 'java', 'javascript', 'python' ]
+        # Learn more:
+        # https://docs.github.com/github/finding-security-vulnerabilities-and-errors-in-your-code/configuring-code-scanning#changing-the-languages-that-are-analyzed
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+      env: 
+        NODE_TLS_REJECT_UNAUTHORIZED: 0
+
+    - name: Get Branch Name
+      shell: bash
+      run: echo "::set-output name=branch::$(echo ${GITHUB_REF} | awk -F/ '{print $3}')"
+      id: rel_branch
+
+    - name: Environment Setup
+      run: | 
+        rm -Rf /__w/_temp/codeql_databases/
+
+    # Initializes the CodeQL tools for scanning.
+    - name: Initialize CodeQL
+      uses: github/codeql-action/init@v1
+      env: 
+        NODE_TLS_REJECT_UNAUTHORIZED: 0
+      with:
+        languages: ${{ matrix.language }}
+        # If you wish to specify custom queries, you can do so here or in a config file.
+        # By default, queries listed here will override any specified in a config file.
+        # Prefix the list here with "+" to use these queries and those in the config file.
+        #queries: +security-extended, +security-and-quality
+        queries: +security-extended
+
+    # Autobuild attempts to build any compiled languages  (C/C++, C#, or Java).
+    # If this step fails, then you should remove it and run the build manually (see below)
+    # - name: Autobuild 
+    #  uses: github/codeql-action/autobuild@v1
+    #  env: 
+    #    NODE_TLS_REJECT_UNAUTHORIZED: 0
+
+    # ℹ️ Command-line programs to run using the OS shell.
+    # 📚 https://git.io/JvXDl
+
+    # ✏️ If the Autobuild fails above, remove it and uncomment the following three lines
+    #    and modify them (or add more) to build your code if your project
+    #    uses a compiled language
+    - name: Compile App
+      run: |
+        mvn clean install -Dmaven.test.skip=true -DskipTests 
+
+    - name: Perform CodeQL Analysis
+      uses: github/codeql-action/analyze@v1
+      env: 
+        NODE_TLS_REJECT_UNAUTHORIZED: 0
+
+    - name: ArmorCode Upload
+      run: |
+        echo "Shared Services" ${{ github.event.repository.name }}
+        python3 /opt/codeql/armorcode_import.py /__w/${{ github.event.repository.name }}/results/${{ matrix.language }}.sarif ${{ secrets.armor_code_api_token }} "Shared Services" ${{ github.event.repository.name }}
+
+    - name: Cleanup
+      run: |
+       rm -Rf ./*

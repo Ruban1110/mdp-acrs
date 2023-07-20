@@ -1,0 +1,53 @@
+{
+  "warnings": [
+
+  ],
+  "data": [
+    {
+      "code": "01",
+      "name": "North American Region",
+      "version": 17,
+      "countries": [
+        {
+          "code": "CA",
+          "name": "Canada"
+        },
+        {
+          "code": "US",
+          "name": "USA"
+        },
+        {
+          "code": "MX",
+          "name": "Mexico"
+        }
+      ]
+    },
+    {
+      "code": "03",
+      "name": "Europe Region",
+      "version": 3,
+      "countries": [
+        {
+          "code": "IT",
+          "name": "Italy"
+        },
+        {
+          "code": "FR",
+          "name": "France"
+        },
+        {
+          "code": "ES",
+          "name": "Spain"
+        },
+        {
+          "code": "RS",
+          "name": "Serbia"
+        },
+        {
+          "code": "VA",
+          "name": "Vatican"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2100 @@
+{
+  "warnings": [
+
+  ],
+  "data": [
+    {
+      "chainCode": "INT",
+      "code": "LV",
+      "name": "BRD brand",
+      "version": 1,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1092,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 1092,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "XV",
+      "name": "BRD brand",
+      "version": 1,
+      "maxLengthOfStay": 365,
+      "maxOccupancy": 9,
+      "systemRange": 1092,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 1092,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": false,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "JV",
+      "name": "BRD brand",
+      "version": 1,
+      "maxLengthOfStay": 365,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 1092,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "UZ",
+      "name": "BRD brand",
+      "version": 1,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "PZ",
+      "name": "BRD brand",
+      "version": 1,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "PY",
+      "name": "BRD brand",
+      "version": 1,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "XN",
+      "name": "BRD brand",
+      "version": 1,
+      "maxLengthOfStay": 365,
+      "maxOccupancy": 9,
+      "systemRange": 1092,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 1092,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": false,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "KP",
+      "name": "BRD brand",
+      "version": 1,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "QJ",
+      "name": "BRD brand",
+      "version": 1,
+      "maxLengthOfStay": 365,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 1096,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "AAA",
+      "name": "INT brand AAA",
+      "version": 1,
+      "checkInWindow": 43200,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": false,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "QV",
+      "name": "BRD brand",
+      "version": 1,
+      "maxLengthOfStay": 365,
+      "maxOccupancy": 9,
+      "systemRange": 1092,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 1092,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "QB",
+      "name": "BRD brand",
+      "version": 1,
+      "maxLengthOfStay": 365,
+      "maxOccupancy": 9,
+      "systemRange": 1092,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 1092,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": false,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "XJ",
+      "name": "BRD brand",
+      "version": 1,
+      "maxLengthOfStay": 365,
+      "maxOccupancy": 9,
+      "systemRange": 1092,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 1092,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": false,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "DM",
+      "name": "BRD brand",
+      "version": 1,
+      "maxLengthOfStay": 365,
+      "maxOccupancy": 9,
+      "systemRange": 1092,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 1092,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": false,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+        {
+          "cardType": "AX",
+          "cvvForGuarantee": true,
+          "cvvForDeposit": false
+        }
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "PT",
+      "name": "BRD brand",
+      "version": 1,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "YY",
+      "name": "BRD brand",
+      "version": 1,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "AA",
+      "name": "TestBrand",
+      "version": 4,
+      "checkInWindow": 43200,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 99,
+      "systemRange": 1092,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": false,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "DD",
+      "name": "BRD brand",
+      "version": 1,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "DZ",
+      "name": "BRD brand",
+      "version": 1,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "BM",
+      "name": "BRD brand",
+      "version": 1,
+      "maxLengthOfStay": 365,
+      "maxOccupancy": 9,
+      "systemRange": 1092,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 1092,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": false,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+        {
+          "cardType": "AX",
+          "cvvForGuarantee": true,
+          "cvvForDeposit": false
+        }
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "KF",
+      "name": "BRD brand",
+      "version": 1,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "HHZ",
+      "name": "INT brand AAX",
+      "version": 1,
+      "checkInWindow": 43200,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "XP",
+      "name": "BRD brand",
+      "version": 1,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "HP",
+      "name": "BRD brand",
+      "version": 1,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "XM",
+      "name": "BRD brand",
+      "version": 1,
+      "maxLengthOfStay": 365,
+      "maxOccupancy": 9,
+      "systemRange": 1092,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 1092,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": false,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "FV",
+      "name": "BRD brand",
+      "version": 1,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "KV",
+      "name": "BRD brand",
+      "version": 1,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "PV",
+      "name": "BRD brand",
+      "version": 1,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "HY",
+      "name": "INT brand AAX",
+      "version": 1,
+      "checkInWindow": 43200,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "DDB",
+      "name": "INT brand AAX",
+      "version": 1,
+      "checkInWindow": 43200,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": true,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "PK",
+      "name": "TestRMS",
+      "version": 2,
+      "checkInWindow": 43200,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 99,
+      "systemRange": 1092,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": false,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "EGR",
+      "name": "Brand name EGR",
+      "version": 2,
+      "checkInWindow": 43200,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "MP",
+      "name": "Property 1",
+      "version": 1,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "ML",
+      "name": "Property 1",
+      "version": 1,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "VN",
+      "name": "BRD brand",
+      "version": 1,
+      "maxLengthOfStay": 365,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 1096,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "GV",
+      "name": "BRD brand",
+      "version": 1,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 1096,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "VV",
+      "name": "BRD brand",
+      "version": 1,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "OF",
+      "name": "BRD brand",
+      "version": 1,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "OY",
+      "name": "BRD brand",
+      "version": 1,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "AAZ",
+      "name": "INT brand AAX",
+      "version": 1,
+      "checkInWindow": 43200,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": true,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "AA5",
+      "name": "This is AA5",
+      "version": 1,
+      "checkInWindow": 43200,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": false,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": true,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "NM",
+      "name": "No House Room Required",
+      "version": 2,
+      "checkInWindow": 43200,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 99,
+      "systemRange": 1092,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": false,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": false,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "AA1",
+      "name": "This is AA1",
+      "version": 1,
+      "checkInWindow": 43200,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": false,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": true,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "SJ",
+      "name": "BRD brand",
+      "version": 1,
+      "maxLengthOfStay": 365,
+      "maxOccupancy": 9,
+      "systemRange": 1092,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 1092,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": false,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "AAY",
+      "name": "INT brand AAY",
+      "version": 1,
+      "checkInWindow": 43200,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": true,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "QL",
+      "name": "BRD brand",
+      "version": 1,
+      "maxLengthOfStay": 365,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 1096,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "FM",
+      "name": "BRD brand",
+      "version": 1,
+      "maxLengthOfStay": 365,
+      "maxOccupancy": 9,
+      "systemRange": 1092,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 1092,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+        {
+          "cardType": "AX",
+          "cvvForGuarantee": true,
+          "cvvForDeposit": false
+        }
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "FF",
+      "name": "BRD brand",
+      "version": 1,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "DDY",
+      "name": "INT brand AAX",
+      "version": 1,
+      "checkInWindow": 43200,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": true,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "DDC",
+      "name": "INT brand AAX",
+      "version": 1,
+      "checkInWindow": 43200,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": true,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "AAX",
+      "name": "INT brand AAF",
+      "version": 1,
+      "checkInWindow": 43200,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": true,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "DDD",
+      "name": "INT brand AAF",
+      "version": 3,
+      "checkInWindow": 43200,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "KRI",
+      "name": "This is KRI",
+      "version": 1,
+      "checkInWindow": 43200,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": false,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": true,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "CQ",
+      "name": "BRD brand",
+      "version": 1,
+      "maxLengthOfStay": 365,
+      "maxOccupancy": 9,
+      "systemRange": 1092,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 1092,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+        {
+          "cardType": "AX",
+          "cvvForGuarantee": true,
+          "cvvForDeposit": false
+        }
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "EGO",
+      "name": "EGO brand name",
+      "version": 3,
+      "checkInWindow": 43200,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "HX",
+      "name": "INT brand AAX",
+      "version": 1,
+      "checkInWindow": 43200,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+        {
+          "cardType": "AX",
+          "cvvForGuarantee": false,
+          "cvvForDeposit": false
+        },
+        {
+          "cardType": "DC",
+          "cvvForGuarantee": false,
+          "cvvForDeposit": false
+        },
+        {
+          "cardType": "CA",
+          "cvvForGuarantee": false,
+          "cvvForDeposit": false
+        },
+        {
+          "cardType": "VI",
+          "cvvForGuarantee": false,
+          "cvvForDeposit": false
+        },
+        {
+          "cardType": "MC",
+          "cvvForGuarantee": false,
+          "cvvForDeposit": false
+        },
+        {
+          "cardType": "AU",
+          "cvvForGuarantee": false,
+          "cvvForDeposit": false
+        },
+        {
+          "cardType": "JC",
+          "cvvForGuarantee": false,
+          "cvvForDeposit": false
+        },
+        {
+          "cardType": "PI",
+          "cvvForGuarantee": false,
+          "cvvForDeposit": false
+        }
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "CA",
+      "name": "BRD brand",
+      "version": 1,
+      "maxLengthOfStay": 365,
+      "maxOccupancy": 9,
+      "systemRange": 1092,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 1092,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+        {
+          "cardType": "AX",
+          "cvvForGuarantee": true,
+          "cvvForDeposit": false
+        }
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "OL",
+      "name": "BRD brand",
+      "version": 1,
+      "maxLengthOfStay": 365,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 1096,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "RR",
+      "name": "INT brand AAX",
+      "version": 1,
+      "checkInWindow": 43200,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "MN",
+      "name": "Test RMS",
+      "version": 2,
+      "checkInWindow": 43200,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 99,
+      "systemRange": 1092,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": false,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "AAF",
+      "name": "INT brand AAF",
+      "version": 1,
+      "checkInWindow": 43200,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": true,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "KJ",
+      "name": "BRD brand",
+      "version": 1,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "AN",
+      "name": "AN brand ",
+      "version": 1,
+      "checkInWindow": 43200,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "UP",
+      "name": "BRD brand",
+      "version": 1,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "EEE",
+      "name": "INT brand AAX",
+      "version": 1,
+      "checkInWindow": 43200,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "DDZ",
+      "name": "INT brand AAX",
+      "version": 1,
+      "checkInWindow": 43200,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": true,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "YZ",
+      "name": "BRD brand",
+      "version": 1,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "AAB",
+      "name": "Test brand AAB",
+      "version": 8,
+      "checkInWindow": 43200,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "ZZ",
+      "name": "INT brand AAF",
+      "version": 2,
+      "checkInWindow": 43200,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "DDA",
+      "name": "INT brand AAX",
+      "version": 1,
+      "checkInWindow": 43200,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": true,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "HZ",
+      "name": "INT brand AAX",
+      "version": 1,
+      "checkInWindow": 43200,
+      "maxLengthOfStay": 90,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 350,
+      "isForceOverrideAllowed": false,
+      "isTraining": false,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    },
+    {
+      "chainCode": "INT",
+      "code": "OJ",
+      "name": "BRD brand",
+      "version": 1,
+      "maxLengthOfStay": 365,
+      "maxOccupancy": 9,
+      "systemRange": 1096,
+      "confirmReservationByEmail": false,
+      "confirmReservationByFax": false,
+      "isHouseFlowSellThroughRequired": true,
+      "bookingHorizon": 1096,
+      "currencies": [
+        {
+          "currencyCode": "USD",
+          "isDefault": true,
+          "roundingLimit": 2,
+          "roundToClosest0": true,
+          "roundToClosest5": false,
+          "roundToClosest9": false
+        }
+      ],
+      "creditCardAndPaymentSecurities": [
+
+      ]
+    }
+  ]
+}
